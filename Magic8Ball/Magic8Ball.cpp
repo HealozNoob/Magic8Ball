@@ -4,7 +4,7 @@
 // main method
 int main() {
 
-	cout << "Hi";
+	cout << "Hi there";
 
 	// seed randoms
 	srand(unsigned(time(NULL)));
